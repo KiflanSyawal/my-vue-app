@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "about": "About Me",
+    "experiences": "Experience",
+    "skills": "Skills",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, My name is",
+    "name": "Kiflan Anugerah Syawal",
+    "bio": "I am a highly motivated technology enthusiast with strong critical thinking and teamwork abilities. As an experienced robotics programmer and IT specialist, I excel under pressure and possess skills in C, C++, OpenCR microcontrollers, web development frameworks, as well as Cisco and MikroTik network configuration. I have achieved notable success, securing 3rd place nationally in humanoid robot soccer (2023), 2nd place (2024), and funding for a student creativity program. With effective English communication skills (IELTS 6, CEFR B2), I am eager to apply my knowledge and collaborate in a technology career.",
+    "titles": [
+      "Web Developer",
+      "IT Specialist",
+      "System Analyst",
+      "Robotic Programmer",
+      "Network Engineer",
+      "Frontend Developer",
+      "UI UX Designer"
+    ]
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "subtitle": "Career journey & technical achievements across enterprise systems, robotics, and IT infrastructure",
+    "coreCompetencies": "Core Competencies:",
+    "previous": "Previous",
+    "next": "Next",
+    "bni": {
+      "title": "Application Developer",
+      "company": "PT Bank Negara Indonesia (Persero) Tbk (BNI)",
+      "date": "26 January 2026 - 31 January 2027",
+      "shortDate": "2026 - 2027",
+      "desc": "Engaged in digital banking IT operations, system performance enhancement, core banking support, database query optimization, and secure API integrations to deliver high-availability financial services."
+    },
+    "sigma": {
+      "title": "Network Engineer",
+      "company": "PT Sigma Cipta Utama",
+      "date": "23 June 2025 - 31 December 2025",
+      "shortDate": "Jun - Dec 2025",
+      "desc": "Engineered network architectures, maintained hardware subsystems, configured Cisco/MikroTik routing, and executed troubleshooting for corporate network deployments."
+    },
+    "aadiyaat": {
+      "title": "Robotics Engineer",
+      "company": "AL-Aadiyaat",
+      "date": "2022 - 2025",
+      "shortDate": "2022 - 2025",
+      "desc": "Developed and optimized embedded C++/C algorithms for OpenCR microcontrollers and humanoid soccer robot Darwin OP3 systems. Designed real-time sensor processing and movement routines."
+    },
+    "marriott": {
+      "title": "Information Technology System Analyst",
+      "company": "Marriott Executive Apartment",
+      "date": "3 September 2024 - 3 March 2025",
+      "shortDate": "2024 - 2025",
+      "desc": "Analyzed enterprise IT infrastructure requirements, configured LAN networks, executed hardware troubleshooting, and managed local application setups to guarantee non-stop system operations."
+    }
+  },
+  "skills": {
+    "title": "Skills"
+  },
+  "projects": {
+    "title": "Projects Showcase",
+    "subtitle": "Featured application & web development projects",
+    "viewDetails": "View Details →",
+    "featured": "Featured Project",
+    "techUsed": "Technologies Used",
+    "visitLive": "Visit Live Website →",
+    "gointerling": {
+      "title": "Gointerling",
+      "desc": "A platform designed as Web Developer for Student Creativity Program (PKM). Gointerling connects users with professional translators and interpreters."
+    }
+  },
+  "contact": {
+    "title": "Let's Connect",
+    "desc": "I'm always excited to discuss new opportunities, collaborate on interesting projects, or simply connect with fellow developers and creators. Let's build something amazing together!",
+    "whatsapp": "WhatsApp",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "sendEmail": "Send me an email",
+    "downloadCv": "Download CV"
+  },
+  "footer": {
+    "brandDesc": "Building innovative digital solutions with passion and precision. Let's create something extraordinary together.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "getInTouch": "Get In Touch",
+    "location": "Jakarta Metropolitan Area, Indonesia",
+    "copyright": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "serviceList": [
+      "Web Development",
+      "System Analysis",
+      "Robot Programming",
+      "UI/UX Design",
+      "3D Modeling",
+      "Network Engineering"
+    ]
+  }
+}

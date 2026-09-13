@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "about": "自己紹介",
+    "experiences": "職務経歴",
+    "skills": "スキル",
+    "gallery": "ギャラリー",
+    "contact": "お問い合わせ"
+  },
+  "hero": {
+    "greeting": "こんにちは、私の名前は",
+    "name": "キフラン・アヌグラ・シャワル",
+    "bio": "高いモチベーションと強い論理的思考力、チームワークを備えたITエンジニアです。ロボット工学プログラマーおよびITスペシャリストとして、C言語、C++、OpenCRマイコン、Web開発フレームワーク、CiscoおよびMikroTikのネットワーク構築に精通しています。全国ヒューマノイドロボットサッカー大会での第3位（2023年）、第2位（2024年）の獲得や、学生創造性プログラムでの資金獲得など、数々の実績を残しています。英語でのコミュニケーション（IELTS 6, CEFR B2）を活用し、グローバルなIT業界での活躍を目指しています。",
+    "titles": [
+      "Webエンジニア",
+      "ITスペシャリスト",
+      "システムアナリスト",
+      "ロボティクスプログラマー",
+      "ネットワークエンジニア",
+      "フロントエンドエンジニア",
+      "UI/UXデザイナー"
+    ]
+  },
+  "experience": {
+    "title": "職務経歴",
+    "subtitle": "エンタープライズシステム、ロボティクス、ITインフラ分野における経歴と技術実績",
+    "coreCompetencies": "主要スキル・技術:",
+    "previous": "前へ",
+    "next": "次へ",
+    "bni": {
+      "title": "アプリケーションエンジニア",
+      "company": "PT Bank Negara Indonesia (Persero) Tbk (BNI)",
+      "date": "2026年1月26日 - 2027年1月31日",
+      "shortDate": "2026年 - 2027年",
+      "desc": "デジタルバンキングIT運用の最適化、システムパフォーマンスの向上、勘定系システムのサポート、データベースクエリの最適化、および安全なREST API統合に従事。"
+    },
+    "sigma": {
+      "title": "ネットワークエンジニア",
+      "company": "PT Sigma Cipta Utama",
+      "date": "2025年6月23日 - 2025年12月31日",
+      "shortDate": "2025年6月 - 12月",
+      "desc": "ネットワークアーキテクチャの設計、ハードウェアサブシステムの保守、Cisco/MikroTikルーターのルーティング設定、企業ネットワークのトラブルシューティングを遂行。"
+    },
+    "aadiyaat": {
+      "title": "ロボティクスエンジニア",
+      "company": "AL-Aadiyaat",
+      "date": "2022年 - 2025年",
+      "shortDate": "2022年 - 2025年",
+      "desc": "OpenCRマイコンおよびヒューマノイドサッカーロボット（Darwin OP3）向け組込みC++/Cアルゴリズムの開発と最適化。リアルタイムセンサー処理と制御 routine を設計。"
+    },
+    "marriott": {
+      "title": "ITシステムアナリスト",
+      "company": "Marriott Executive Apartment",
+      "date": "2024年9月3日 - 2025年3月3日",
+      "shortDate": "2024年 - 2025年",
+      "desc": "企業ITインフラ要件の分析、LANネットワークの構築、ハードウェアトラブルシューティング、およびローカルアプリケーション運用のサポートを担当。"
+    }
+  },
+  "skills": {
+    "title": "スキル＆技術"
+  },
+  "projects": {
+    "title": "プロジェクト実績",
+    "subtitle": "注目のアプリケーションおよびWeb開発実績",
+    "viewDetails": "詳細を見る →",
+    "featured": "注目プロジェクト",
+    "techUsed": "使用技術",
+    "visitLive": "Webサイトを見る →",
+    "gointerling": {
+      "title": "Gointerling",
+      "desc": "学生創造性プログラム（PKM）でWebエンジニアとして開発したプラットフォーム。専門の翻訳家・通訳者とユーザーをマッチングします。"
+    }
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "desc": "新しいビジネスの機会や魅力的なプロジェクトでのコラボレーション、技術的な意見交換を歓迎しています。お気軽にご連絡ください！",
+    "whatsapp": "WhatsApp",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "sendEmail": "メールを送る",
+    "downloadCv": "CVをダウンロード"
+  },
+  "footer": {
+    "brandDesc": "情熱と精度の高さを持ち、革新的なデジタルソリューションを構築します。",
+    "quickLinks": "クイックリンク",
+    "services": "サービス一覧",
+    "getInTouch": "連絡先",
+    "location": "インドネシア、ジャカルタ首都圏",
+    "copyright": "All rights reserved.",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "serviceList": [
+      "Web開発",
+      "システム分析",
+      "ロボットプログラミング",
+      "UI/UXデザイン",
+      "3Dモデリング",
+      "ネットワーク構築"
+    ]
+  }
+}

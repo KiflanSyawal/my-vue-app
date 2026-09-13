@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <rect width="200" height="60" rx="8" fill="#ffffff"/>
+  <g transform="translate(10, 10)">
+    <!-- BNI Teal and Orange Brand Logo -->
+    <path fill="#005E6A" d="M12 5h20c8 0 14 4 14 10 0 5-3 8-7 9 5 2 9 6 9 11 0 7-5 12-14 12H12V5zm10 14h9c3 0 5-1 5-4s-2-4-5-4h-9v8zm0 18h10c3 0 5-1 5-4s-2-4-5-4H22v8z"/>
+    <path fill="#F26522" d="M55 5h12l16 25V5h10v37H81L65 20v22H55V5z"/>
+    <path fill="#005E6A" d="M98 5h10v37H98V5z"/>
+    <circle cx="125" cy="23" r="14" fill="#F26522"/>
+    <text x="125" y="28" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#ffffff" text-anchor="middle">46</text>
+  </g>
+</svg>
