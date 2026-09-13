@@ -155,10 +155,6 @@ h2 {
   transition: transform 0.3s ease;
 }
 
-.profile-pic:hover {
-  transform: translateY(-5px);
-}
-
 @media (max-width: 992px) {
   .hero-content {
     max-width: 55%;

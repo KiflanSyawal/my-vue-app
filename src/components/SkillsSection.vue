@@ -119,12 +119,6 @@ export default {
   box-shadow: 0 4px 12px var(--card-shadow);
 }
 
-.skill-item:hover {
-  transform: translateY(-10px) scale(1.05);
-  border-color: var(--accent-color);
-  box-shadow: 0 8px 20px rgba(255, 193, 7, 0.25);
-}
-
 .skill-icon {
   width: 48px;
   height: 48px;

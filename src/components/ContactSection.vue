@@ -158,7 +158,7 @@ export default {
 }
 
 .contact-item:hover {
-  transform: translateY(-6px) scale(1.02);
+  /* transform: translateY(-6px) scale(1.02); */
   border-color: var(--accent-color);
   box-shadow: 0 12px 30px rgba(255, 193, 7, 0.25);
 }
@@ -242,11 +242,6 @@ export default {
   box-shadow: 0 5px 20px rgba(255, 193, 7, 0.35);
 }
 
-.primary-contact-btn:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 25px rgba(255, 193, 7, 0.5);
-}
-
 .secondary-contact-btn {
   background: transparent;
   color: var(--accent-color);
@@ -265,7 +260,6 @@ export default {
 .secondary-contact-btn:hover {
   background: var(--accent-color);
   color: var(--btn-text);
-  transform: translateY(-3px);
   box-shadow: 0 8px 25px rgba(255, 193, 7, 0.3);
 }
 

@@ -61,13 +61,9 @@ export default {
 
       // Typewriter animation data
       professionalTitles: [
-        'Web Developer',
-        'IT Specialist',
-        'System Analyst',
-        'Robotic Programmer',
-        'Network Engineer',
-        'Frontend Developer',
-        'UI UX Designer'
+        'Software Developer',
+        'Robotic Engineer',
+        'Network Engineer'
       ],
       currentTitleIndex: 0,
       currentTypedText: '',

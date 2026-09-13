@@ -191,7 +191,6 @@ export default {
 }
 
 .project-card:hover {
-  transform: translateY(-8px);
   border-color: var(--accent-color);
   box-shadow: 0 18px 40px rgba(255, 193, 7, 0.25);
 }

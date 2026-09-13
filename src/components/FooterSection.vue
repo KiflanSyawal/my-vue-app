@@ -8,17 +8,6 @@
           <p class="footer-description">
             {{ $t('footer.brandDesc') }}
           </p>
-          <div class="footer-social">
-            <a href="https://www.linkedin.com/in/kiflan-anugerah-syawal-0b3905254/" target="_blank" rel="noopener noreferrer" class="social-link" title="LinkedIn">
-              LinkedIn
-            </a>
-            <a href="https://github.com/KiflanSyawal" target="_blank" rel="noopener noreferrer" class="social-link" title="GitHub">
-              GitHub
-            </a>
-            <a href="mailto:kiflan.as@gmail.com" class="social-link" title="Email">
-              Email
-            </a>
-          </div>
         </div>
 
         <!-- Quick Links -->
@@ -51,7 +40,13 @@
               <a href="mailto:kiflan.as@gmail.com">kiflan.as@gmail.com</a>
             </div>
             <div class="footer-contact-item">
-              <span>{{ $t('footer.location') }}</span>
+              <a href="https://www.linkedin.com/in/kiflan-anugerah-syawal-0b3905254/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            </div>
+            <div class="footer-contact-item">
+              <a href="https://wa.me/6282112275218" target="_blank" rel="noopener noreferrer">+62 821-1227-5218</a>
+            </div>
+            <div class="footer-contact-item">
+              <a href="https://github.com/KiflanSyawal" target="_blank" rel="noopener noreferrer">GitHub</a>
             </div>
           </div>
         </div>
@@ -124,30 +119,6 @@ export default {
   font-size: 14px;
 }
 
-.footer-social {
-  display: flex;
-  gap: 12px;
-}
-
-.social-link {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 6px 14px;
-  background: var(--accent-color);
-  color: var(--btn-text);
-  border-radius: 20px;
-  font-size: 13px;
-  font-weight: 600;
-  text-decoration: none;
-  transition: all 0.3s ease;
-}
-
-.social-link:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 5px 15px rgba(255, 193, 7, 0.3);
-}
-
 .footer-section-title {
   font-size: 18px;
   font-weight: 600;
@@ -199,8 +170,15 @@ export default {
 }
 
 .footer-contact-item a {
-  color: var(--accent-color);
+  color: var(--text-color);
+  opacity: 0.85;
   text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.footer-contact-item a:hover {
+  color: var(--accent-color);
+  opacity: 1;
 }
 
 .footer-bottom {
@@ -249,10 +227,6 @@ export default {
 
   .footer-description {
     text-align: center;
-  }
-
-  .footer-social {
-    justify-content: center;
   }
 
   .footer-bottom-content {

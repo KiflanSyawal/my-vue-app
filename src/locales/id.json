@@ -12,12 +12,8 @@
     "bio": "Saya adalah seorang penggemar teknologi yang berdedikasi tinggi dengan kemampuan berpikir kritis dan kerja tim yang kuat. Sebagai pengembang pemrograman robotika dan spesialis IT berpengalaman, saya terbiasa bekerja di bawah tekanan serta menguasai C, C++, mikrokontroler OpenCR, kerangka kerja pengembangan web, serta konfigurasi jaringan Cisco dan MikroTik. Saya telah mencapai keberhasilan signifikan, termasuk meraih Juara 3 Nasional Sepak Bola Robot Humanoid (2023), Juara 2 (2024), serta pendanaan Program Kreativitas Mahasiswa. Dengan kemampuan komunikasi bahasa Inggris yang efektif (IELTS 6, CEFR B2), saya antusias untuk menerapkan pengetahuan dan berkolaborasi dalam karir teknologi.",
     "titles": [
       "Pengembang Web",
-      "Spesialis IT",
-      "Analis Sistem",
-      "Pemrogram Robotika",
-      "Insinyur Jaringan",
-      "Pengembang Frontend",
-      "Desainer UI/UX"
+      "Insinyur Robotika",
+      "Insinyur Jaringan"
     ]
   },
   "experience": {
@@ -30,28 +26,28 @@
       "title": "Pengembang Aplikasi",
       "company": "PT Bank Negara Indonesia (Persero) Tbk (BNI)",
       "date": "26 Januari 2026 - 31 Januari 2027",
-      "shortDate": "2026 - 2027",
+      "shortDate": "Jan 2026 - Jan 2027",
       "desc": "Terlibat dalam operasional IT perbankan digital, peningkatan performa sistem, dukungan perbankan inti, optimasi kueri basis data, dan integrasi API yang aman untuk menyediakan layanan keuangan berkualitas tinggi."
     },
     "sigma": {
       "title": "Insinyur Jaringan",
       "company": "PT Sigma Cipta Utama",
       "date": "23 Juni 2025 - 31 Desember 2025",
-      "shortDate": "Jun - Des 2025",
+      "shortDate": "Jun 2025 - Des 2025",
       "desc": "Merancang arsitektur jaringan, memelihara subsistem perangkat keras, mengonfigurasi penentuan rute Cisco/MikroTik, dan melakukan pemecahan masalah jaringan perusahaan."
     },
     "aadiyaat": {
       "title": "Insinyur Robotika",
       "company": "AL-Aadiyaat",
-      "date": "2022 - 2025",
-      "shortDate": "2022 - 2025",
+      "date": "November 2022 - Mei 2025",
+      "shortDate": "Nov 2022 - Mei 2025",
       "desc": "Mengembangkan dan mengoptimalkan algoritma C++/C tertanam untuk mikrokontroler OpenCR dan sistem robot sepak bola humanoid Darwin OP3. Merancang pemrosesan sensor waktu nyata dan rutin gerakan."
     },
     "marriott": {
       "title": "Analis Sistem Teknologi Informasi",
       "company": "Marriott Executive Apartment",
       "date": "3 September 2024 - 3 Maret 2025",
-      "shortDate": "2024 - 2025",
+      "shortDate": "Sep 2024 - Mar 2025",
       "desc": "Menganalisis kebutuhan infrastruktur IT perusahaan, mengonfigurasi jaringan LAN, melakukan pemecahan masalah perangkat keras, dan mengelola aplikasi lokal untuk menjamin kelancaran operasional."
     }
   },
@@ -89,12 +85,9 @@
     "privacy": "Kebijakan Privasi",
     "terms": "Syarat & Ketentuan",
     "serviceList": [
-      "Pengembangan Web",
-      "Analisis Sistem",
-      "Pemrograman Robot",
-      "Desain UI/UX",
-      "Pemodelan 3D",
-      "Teknik Jaringan"
+      "Pengembang Web",
+      "Insinyur Robotika",
+      "Insinyur Jaringan"
     ]
   }
 }

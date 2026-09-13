@@ -200,13 +200,6 @@ export default {
   transition: all 0.3s;
 }
 
-.theme-toggle:hover {
-  background-color: var(--accent-color);
-  color: var(--btn-text);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(255, 193, 7, 0.3);
-}
-
 /* Hamburger Menu Styles */
 .hamburger {
   display: none;

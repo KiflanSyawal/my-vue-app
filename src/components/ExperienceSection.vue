@@ -444,7 +444,6 @@ export default {
 .nav-btn:hover {
   background: var(--accent-color);
   color: var(--btn-text);
-  transform: translateY(-2px);
   box-shadow: 0 5px 15px rgba(255, 193, 7, 0.3);
 }
 
@@ -499,34 +498,52 @@ export default {
   }
 
   .timeline-track-wrapper {
-    overflow-x: auto;
-    padding: 10px 15px 20px 15px;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-  }
-
-  .timeline-track-wrapper::-webkit-scrollbar {
-    display: none;
+    overflow: visible;
+    padding: 0 5px;
+    margin-bottom: 30px;
   }
 
   .timeline-nodes {
-    min-width: 540px;
-    justify-content: space-around;
+    min-width: 0;
+    width: 100%;
+    justify-content: space-between;
+    gap: 4px;
   }
 
   .timeline-line {
-    left: 40px;
-    right: 40px;
-    min-width: 460px;
+    left: 20px;
+    right: 20px;
+    top: 20px;
+    min-width: 0;
+  }
+
+  .timeline-node {
+    gap: 6px;
+    flex: 1 1 0;
+    min-width: 0;
+  }
+
+  .node-circle {
+    width: 40px;
+    height: 40px;
+    border-width: 2px;
+    padding: 4px;
+  }
+
+  .node-icon {
+    width: 20px;
+    height: 20px;
   }
 
   .node-company {
-    font-size: 13px;
+    font-size: 11px;
+    text-align: center;
     white-space: nowrap;
   }
 
   .node-year {
-    font-size: 11px;
+    font-size: 10px;
+    text-align: center;
     white-space: nowrap;
   }
 
